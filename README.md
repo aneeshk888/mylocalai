@@ -138,10 +138,10 @@ liblzma-dev python-openssl git
 
 | Action | Screenshot |
 |--------|------------|
-| 🖥️ Ubuntu on WSL | ![](screenshots/ubuntu_wsl.png) |
-| 🤖 Ollama Model Running | ![](screenshots/ollama_llama2.png) |
-| 🌐 Web UI Interface | ![](screenshots/open_web_ui.png) |
-| 📈 GPU Monitoring (Optional) | ![](screenshots/nvidia_smi.png) |
+| 🖥️ Ubuntu on WSL | ![](![image](https://github.com/user-attachments/assets/7b333d7b-7d22-4c6d-b8d0-dfc9a2b3addd) |
+| 🤖 Ollama Model Running | ![](![image](https://github.com/user-attachments/assets/7bce30b1-370d-4fd5-a789-0fa4344a1c4b)) |
+| 🌐 Web UI Interface | ![](![image](https://github.com/user-attachments/assets/f290b298-eba6-4b94-b2fa-e86d956d75b5)) |
+| 📈 GPU Monitoring (Optional) | ![](![image](https://github.com/user-attachments/assets/8b0c90c1-aaf6-4f72-abe9-903d0d166719)) |
 
 *Tip: Blur or hide local IP addresses and hostnames in screenshots before sharing.*
 
